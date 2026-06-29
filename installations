@@ -1,0 +1,1 @@
+pip install gradio pytesseract pillow python-dotenv groq python frontend.py
