@@ -1,0 +1,102 @@
+=== THREAT CATEGORY: BANKING KYC & ACCOUNT BLOCK PHISHING ===
+IDENTIFIERS: "KYC expired", "Account suspended", "PAN card update", "Click here to unblock", fake bank links, alphanumeric sender IDs, verify requests, update KYC details.
+PSYCHOLOGICAL TACTIC: Extreme urgency, fear of immediate financial loss or account penalties.
+MANDATORY DOS:
+1. Contact your bank or financial institution directly using trusted phone numbers from their official website to verify the request.
+2. Check with your branch to understand valid, authorised methods for updating KYC data.
+3. Report any suspicious messages or communication to your bank immediately.
+CRITICAL DON'TS:
+1. Never click on unverified, suspicious links received via SMS, WhatsApp, or email.
+2. Never share secure credentials including NetBanking login IDs, passwords, card details, PINs, or transaction OTPs on any website or app.
+3. Do not share physical or digital copies of identity documents (Aadhaar, PAN) with unknown individuals.
+REPORTING HELPLINE: Call the national cyber fraud helpline at 1930 or file a complaint online at https://cybercrime.gov.in.
+
+=== THREAT CATEGORY: PHISHING, VISHING, AND QUISHING SCAMS ===
+IDENTIFIERS: Suspicious links, fake email senders, caller ID spoofing, unknown international numbers, voice phishing, "Scan QR code to receive money", embedded payment app codes.
+PSYCHOLOGICAL TACTIC: Authority impersonation (pretending to be bank staff or police), synthetic trust, false rewards.
+MANDATORY DOS:
+1. Hover over hyperlinks in emails to inspect the real destination URL and spot character typos.
+2. Install reliable spam blockers, password-protect your voicemail, and keep device software updated.
+3. Verify website safety by checking for the HTTPS protocol and the security padlock icon before typing info.
+4. Only scan QR codes displayed on official portals or inside physical shops of verified businesses.
+CRITICAL DON'TS:
+1. Never click on links inside unexpected messages; delete spam texts from unknown senders immediately.
+2. Never scan a QR code to 'receive' or 'redeem' money-legitimate incoming transfers never require scanning.
+3. Never share passwords, usernames, or OTPs over a phone call; genuine institutions will never ask for them.
+4. Do not trust your phone's caller ID display blindly, as fraudsters frequently spoof official numbers.
+REPORTING HELPLINE: Call 1930 or lodge an official report on the portal at https://cybercrime.gov.in.
+
+=== THREAT CATEGORY: COURIER EXTORTION & FAKE DIGITAL ARREST ===
+IDENTIFIERS: "Seized illegal package", "FedEx contraband drugs", "Customs department alert", WhatsApp or Skype video call interrogation, "Digital Arrest execution", CBI/Police impersonation.
+PSYCHOLOGICAL TACTIC: Severe legal intimidation, fear of public shame, manufactured legal authority.
+MANDATORY DOS:
+1. Remain calm and understand that police, narcotics, or customs officials never conduct criminal interrogations over video calls.
+2. Know your rights: There is absolutely no legal process called "digital arrest" in Indian law.
+3. Disconnect suspicious video calls immediately and report the caller account details using the "Report Suspect Tab" on the national portal.
+CRITICAL DON'TS:
+1. Do not share any personal details, home addresses, or financial information during an unsolicited video call.
+2. Do not transfer funds to any "safe government escrow account" to clear your name or avoid arrest.
+3. Do not remain isolated on a long, continuous video call; scammers use prolonged engagement to trap you.
+REPORTING HELPLINE: Call 1930 or submit details under the "Report Suspect Tab" at https://cybercrime.gov.in.
+
+=== THREAT CATEGORY: DEEPFAKE CYBERCRIME & SOCIAL MEDIA IMPERSONATION ===
+IDENTIFIERS: Fake video clips, manipulated audio recordings, cloned voice notes, social media accounts mimicking friends or family, unverified fund requests via chat.
+PSYCHOLOGICAL TACTIC: Emotional manipulation, urgent cries for help, exploiting trust in family or public figures.
+MANDATORY DOS:
+1. Verify the identity of any friend or relative requesting emergency money by calling them on a known, offline phone number.
+2. Check social media profiles for blue verification checkmarks, consistent handles, and historical posts.
+3. Report fake, cloned profiles directly to the social media platform's security team.
+4. Carefully analyze media content for unnatural lip movements, blinking anomalies, or voice distortions.
+CRITICAL DON'TS:
+1. Do not make immediate online payments to online charities or acquaintances without visual or vocal verification.
+2. Do not share, forward, or spread exaggerated, emotional videos without verifying their actual source.
+3. Do not leave your social media profiles completely public; restrict privacy settings to protect personal photos from being scraped.
+REPORTING HELPLINE: Call 1930 or log a case online at https://cybercrime.gov.in.
+
+=== THREAT CATEGORY: TECHNICAL SUPPORT & REMOTE ACCESS FRAUD ===
+IDENTIFIERS: "PC infected", "Virus warning popup", "Microsoft Support helpline", screen-sharing software, AnyDesk, TeamViewer, QuickSupport, remote device access.
+PSYCHOLOGICAL TACTIC: Panic, technical jargon confusion, urgency to fix a fabricated security issue.
+MANDATORY DOS:
+1. Confirm a caller's identity independently through trusted, public customer care channels.
+2. Log out of all mobile banking and UPI payment apps before downloading any shared support tools.
+3. Completely uninstall remote screen-sharing software as soon as a verified technical task is finished.
+4. Set strong, complex device passwords and mandate multi-factor authentication (2FA) across profiles.
+CRITICAL DON'TS:
+1. Never grant remote device access or screen control to unverified individuals or unexpected cold callers.
+2. Do not download or install unfamiliar utilities from third-party links sent via text or email.
+3. Do not type passwords, login credentials, or sensitive bank details while your screen is actively being mirrored.
+REPORTING HELPLINE: Cut internet access immediately, call 1930, or report at https://cybercrime.gov.in.
+
+=== THREAT CATEGORY: ONLINE JOB, CYBER SLAVERY, & TASK FRAUD ===
+IDENTIFIERS: "Earn money by liking YouTube videos", "Google Maps rating job", high pay for easy home tasks, Telegram group assignments, fake international job offers, tourist visa work.
+PSYCHOLOGICAL TACTIC: Greed, low-effort reward traps, coercive financial dependency, building initial trust with tiny payouts.
+MANDATORY DOS:
+1. Verify business listings, job details, and employer credentials using official corporate directories and newspapers.
+2. Only process international job placements through government-approved, verified employment agents.
+3. Ask highly specific, technical questions during interviews to cross-examine online recruiters.
+CRITICAL DON'TS:
+1. Never pay upfront fees, registration deposits, or "processing charges" to secure any job or unlock commissions.
+2. Do not apply for random employment openings advertised inside unverified social media groups or messaging apps.
+3. Never accept an overseas job offer if they instruct you to travel and work on a basic tourist visa.
+REPORTING HELPLINE: Call 1930 or flag human trafficking/forced labor risks on the "Report Suspect Tab" at https://cybercrime.gov.in.
+
+=== THREAT CATEGORY: LOTTERY, PONZI, & TRADING INVESTMENT SCAMS ===
+IDENTIFIERS: "KBC lottery winner", lucky draw notification, guaranteed 200% returns, high yield with zero risk, social media trading groups, unverified financial apps, fake RBI accounts.
+PSYCHOLOGICAL TACTIC: Greed, exploiting financial desperation, creating false consistency in fake investment graphs.
+MANDATORY DOS:
+1. Deal exclusively with SEBI-registered brokers and official regulated banking intermediaries for all market investments.
+2. Verify all financial schemes independently through trusted channels of regulated market entities.
+3. Stay skeptical and evaluate claims systematically when an unexpected prize or reward notification arrives.
+CRITICAL DON'TS:
+1. Never send advance processing money, conversion fees, or tax payments to claim a prize or lottery.
+2. Do not join or trust dubious Telegram/WhatsApp communities that aggressively promote closed trading applications.
+3. Do not share your bank credentials, Aadhaar number, or PAN card with any unverified platform promising wealth.
+4. Note that the RBI never holds personal public accounts, manages commercial deposits, or sanctions citizen prizes.
+REPORTING HELPLINE: Call 1930 or report financial fraud directly at https://cybercrime.gov.in.
+
+=== THREAT CATEGORY: MALWARE, RANSOMWARE, & INFRASTRUCTURE CYBERATTACKS ===
+IDENTIFIERS: Fake banking APK files, locked files, encrypted extensions, "Pay ransom to unlock", juice jacking, public USB port modifications, malicious search ads, fake customer care numbers.
+PSYCHOLOGICAL TACTIC: Complete system blockage, functional panic, extortion through data hostage scenarios.
+MANDATORY DOS:
+1. Download mobile apps strictly from authorized marketplaces like Google Play Store, Apple App Store, or direct bank links.
+2. Isolate infected systems instantly by disconnecting network cables and Wi-Fi to stop malware propagation.
