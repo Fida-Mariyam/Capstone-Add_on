@@ -73,19 +73,60 @@ def run_ui_advisor(text_msg, screenshot, voice_msg):
 
 # Custom Styling Engine Configuration
 custom_css = """
-body { background: linear-gradient(135deg, #0b1220, #111827, #1f2937) !important; }
+/* Canvas Background */
+body, .gradio-container, grad-app { background: #0b0d12 !important; color: #cbd5e1 !important; }
 .gradio-container { max-width: 1120px !important; margin: 0 auto !important; padding-top: 36px !important; }
-.main-title { text-align: center !important; font-size: 2.4rem !important; font-weight: 800 !important; }
-.sub-title { text-align: center !important; color: #cbd5e1 !important; margin-bottom: 28px !important; }
-.main-card { background: rgba(255, 255, 255, 0.07) !important; border-radius: 26px !important; padding: 26px !important; box-shadow: 0 10px 40px rgba(0,0,0,0.35) !important; }
-.left-panel, .right-panel { background: rgba(255, 255, 255, 0.045) !important; border-radius: 20px !important; padding: 20px !important; }
-.primary-btn button { background: linear-gradient(135deg, #2563eb, #7c3aed) !important; color: white !important; font-weight: 700 !important; border-radius: 14px !important; }
-.output-box { background: rgba(15, 23, 42, 0.58) !important; border-radius: 16px !important; padding: 18px !important; min-height: 420px !important; }
+.main-title { text-align: center !important; font-size: 2.2rem !important; font-weight: 700 !important; color: #f1f5f9 !important; letter-spacing: -0.5px !important; }
+.sub-title { text-align: center !important; color: #64748b !important; margin-bottom: 28px !important; }
+
+/* Structural Layers */
+.main-card { background: #11141d !important; border: 1px solid #1e2530 !important; border-radius: 12px !important; padding: 26px !important; box-shadow: 0 10px 30px rgba(0,0,0,0.5) !important; }
+.left-panel, .right-panel { background: #171c26 !important; border: 1px solid #263143 !important; border-radius: 8px !important; padding: 20px !important; }
+
+/* Base Entry Input Elements & Image Drag-Drop Blocks */
+textarea, input, .uploader, .file-preview, .audio-container, .block, .w-full { 
+    background-color: #0e1117 !important; 
+     background: #0e1117 !important; 
+    color: #e2e8f0 !important; 
+    border: 1px solid #222b3a !important; 
+}
+input:focus, textarea:focus { border-color: #6d28d9 !important; box-shadow: 0 0 0 1px #6d28d9 !important; outline: none !important; }
+
+/* Deep targeting to uniformize Option 1, Option 2, and Option 3 Labels */
+div[class*="block-label"], 
+.block label span, 
+.form label span, 
+.gradio-container label span, 
+span[class*="bg-primary"], 
+span[class*="bg-amber"] { 
+    background-color: #222b3a !important; 
+    background: #222b3a !important; 
+    color: #94a3b8 !important;
+    border: 1px solid #2d394d !important; 
+    border-radius: 4px !important;
+}
+
+/* Premium Deep Cyber-Violet Action Button */
+.primary-btn button, button.primary-btn { 
+    background: #5b21b6 !important; 
+    border: 1px solid #4c1d95 !important; 
+    color: #ffffff !important; 
+    font-weight: 600 !important; 
+    border-radius: 6px !important; 
+    transition: background 0.15s ease, border-color 0.15s ease !important; 
+    box-shadow: 0 2px 8px rgba(91, 33, 182, 0.2) !important;
+}
+.primary-btn button:hover { 
+    background: #6d28d9 !important; 
+     border-color: #5b21b6 !important;
+}
+
+/* Right-Side Output Markdown Window */
+.output-box { background: #0c0f14 !important; border: 1px solid #1e2530 !important; border-radius: 8px !important; padding: 18px !important; min-height: 420px !important; color: #e2e8f0 !important; }
 """
 
 with gr.Blocks(title="PhishShield AI", theme=gr.themes.Soft(), css=custom_css) as demo:
-    gr.Markdown("# 🛡️ PhishShield AI", elem_classes="main-title")
-    gr.Markdown("Split Architecture Cyber-Attack & Scam Incident Advisor UI Instance.", elem_classes="sub-title")
+    gr.Markdown("# PhishShield AI", elem_classes="main-title")
 
     with gr.Column(elem_classes="main-card"):
         with gr.Row():
